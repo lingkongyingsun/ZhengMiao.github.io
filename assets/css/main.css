@@ -1805,7 +1805,7 @@ input, select, textarea {
 
 	@media screen and (max-width: 736px) {
 
-		header.major > p br {
+		header.major2 > p br {
 			display: none;
 		}
 
