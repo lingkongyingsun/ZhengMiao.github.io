@@ -2169,17 +2169,6 @@ input, select, textarea {
 		.image img {
 			display: block;
 		}
-		
-		.image.header {
-			float: right;
-			display: block;
-			margin: 0 0 2em 0;
-			width: 100%;
-		}
-		
-			.image.header img {
-				width: 100%;
-			}
 
 		.image.left, .image.right {
 			max-width: 30%;
