@@ -1769,6 +1769,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	header.major2 {
+		margin-bottom: 2em;
+	}
+
 	header.major {
 		width: -moz-max-content;
 		width: -webkit-max-content;
