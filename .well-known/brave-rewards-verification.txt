@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: alexchristensen.github.io
+Token: 82d44b2edb8b0b864ffccc4cc8dd54aa842ebddd23fa776554267322205a63e5
