@@ -1,3 +1,6 @@
+## Thank for the template from alexchristensen
+
+The orgin repo readme is following:
 ## Website template designed by:
 
 Forty by HTML5 UP
